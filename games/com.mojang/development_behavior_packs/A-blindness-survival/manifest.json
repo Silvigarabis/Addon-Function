@@ -1,0 +1,25 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "A-blindness-survival",
+    "description": "一个简单的行为包，一直给效果自己，然后不让你改模式，你能不能活下来呢",
+    "uuid": "13be198a-a4c0-427d-ba10-6e3c3785706c",
+    "version": [0, 0, 2],
+    "min_engine_version": [1, 16, 100]
+  },
+  "modules": [
+    {
+      "description": "data:test",
+      "type": "data",
+      "uuid": "c9e1bcc5-fa05-4986-be0e-3d63b2a85ae1",
+      "version": [0, 0, 1]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Silvigarabis"
+    ],
+    "license": "MIT License",
+    "url": "https://github.com/Silvigarabis/Extra-Addon"
+  }
+}

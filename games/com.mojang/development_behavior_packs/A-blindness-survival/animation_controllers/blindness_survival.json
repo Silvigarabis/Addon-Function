@@ -1,0 +1,30 @@
+{
+  "format_version": "1.10.0",
+  "animation_controllers": {
+    "controller.animation.blindness_survival": {
+      "initial_state": "loop1",
+      "states": {
+        "loop1": {
+          "on_entry": [
+            "/function yoni/blindness_survival"
+          ],
+          "transitions": [
+            {
+              "loop2": "(1.0)"
+            }
+          ]
+        },
+        "loop2": {
+          "on_entry": [
+            "/function yoni/blindness_survival"
+          ],
+          "transitions": [
+            {
+              "loop1": "(1.0)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
