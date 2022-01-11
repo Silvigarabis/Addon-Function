@@ -1,3 +1,7 @@
-# Additional Minecraft
+# Addon Function
 
-支撑着梦中的Minecraft
+~~~尝试用指令控制一切~~~
+过于愚蠢，舍弃
+
+等待时间重启中……
+
